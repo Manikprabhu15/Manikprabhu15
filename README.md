@@ -61,7 +61,7 @@ VLSI Design and Verification Engineer with expertise in RTL design, functional v
 
 ## 📚 Featured Projects
 
-### 1️⃣ [CORDIC Sine-Cosine Generator](link-to-repo)
+### 1️⃣ [CORDIC Sine-Cosine Generator](https://github.com/Manikprabhu15/CORDIC-Sine-Cosine-Generator)
 
 Designed and implemented a fixed-point CORDIC sine/cosine generator for efficient FPGA/ASIC deployment. Developed complete RTL using iterative shift-add operations to compute precise trigonometric functions without floating-point units. Created a comprehensive verification environment with testbenches covering angle range validation and accuracy analysis.
 
@@ -72,7 +72,7 @@ Designed and implemented a fixed-point CORDIC sine/cosine generator for efficien
 
 ---
 
-### 2️⃣ [Router 1x3 – RTL Design and Verification](link-to-repo)
+### 2️⃣ [Router 1x3 – RTL Design and Verification](https://github.com/Manikprabhu15/Router-1x3-Design-and-Verification)
 
 Developed a sophisticated Router 1x3 solution utilizing OSI layer 3 routing principles to efficiently direct data packets between computer networks. Implemented address-based routing algorithms to channel incoming packets to designated output channels, optimizing network performance.
 
@@ -82,7 +82,7 @@ Developed a sophisticated Router 1x3 solution utilizing OSI layer 3 routing prin
 
 ---
 
-### 3️⃣ [AHB2APB Bridge IP Core Verification](link-to-repo)
+### 3️⃣ [AHB2APB Bridge IP Core Verification](https://github.com/Manikprabhu15/AHB2APB-Bridge-IP-Core-Verification)
 
 Designed and implemented an AHB to APB bridge in Verilog with pipelining for efficient transaction conversion and support for burst transfers. Developed and verified RTL blocks for single and burst READ/WRITE operations, utilizing UVM for comprehensive verification and achieving RTL design sign-off and synthesis.
 
@@ -107,10 +107,6 @@ Designed and implemented a comprehensive SystemVerilog testbench to verify an e-
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manikprabhu-meru-321688218)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:merumanikprabhu15@gmail.com)
-
-
-## 📈 Profile Views
-![Visitor Count](https://profile-counter.glitch.me/Manikprabhu15/count.svg)
 
 ---
 
