@@ -1,91 +1,149 @@
-# Hi there, I'm Manikprabhu15! 👋
+# Hi there, I'm Manikprabhu! 👋
 
 ## 🚀 About Me
-I'm a passionate **[Your Role - e.g., Full Stack Developer/Software Engineer/Data Scientist]** with a keen interest in **[your main interests - e.g., web development, machine learning, cloud computing]**. I love building innovative solutions and contributing to open-source projects.
+I'm a **VLSI Design and Verification Engineer** passionate about semiconductor design, digital circuit implementation, and building robust verification environments. With expertise in RTL design and advanced verification methodologies, I specialize in creating efficient hardware solutions for FPGA/ASIC applications.
 
-- 🔭 I'm currently working on **[current project or focus area]**
-- 🌱 I'm currently learning **[technologies you're learning]**
-- 👯 I'm looking to collaborate on **[types of projects]**
-- 💬 Ask me about **[your expertise areas]**
-- 📫 How to reach me: **[your email or social links]**
-- ⚡ Fun fact: **[something interesting about you]**
+- 🔭 I'm currently working on **Advanced VLSI Design and Verification projects**
+- 🌱 I'm currently learning **Advanced UVM methodologies and Low-Power Design techniques**
+- 👯 I'm looking to collaborate on **RTL Design, Verification IP development, and open-source EDA tools**
+- 💬 Ask me about **Verilog, SystemVerilog, UVM, Digital VLSI Design, and Verification**
+- 📫 How to reach me: **[your-email@example.com]**
+- ⚡ Fun fact: **I can design circuits that think faster than I do!**
 
 ## 💼 Professional Summary
-[2-3 sentences about your professional background, experience, and career goals]
+VLSI Design and Verification Engineer with expertise in RTL design, functional verification, and testbench development using industry-standard methodologies. Experienced in developing verification environments using UVM and implementing coverage-driven verification strategies. Strong background in digital electronics, VLSI design, and scripting for automation.
+
+## 🎓 Education
+
+**PG Diploma in VLSI Design (PG-DVLSI)** | Grade: A  
+*Center for Development of Advanced Computing (CDAC)*, Pune, India | 2025 - 2026
+
+**Bachelor of Technology - Electronics And Telecommunication** | GPA: 7.77  
+*Shri Guru Gobind Singhji Institute of Engineering and Technology (SGGSIET)*, Nanded, India | 2020 - 2024
+
+**Higher Secondary - Maharashtra State Board** | Percentage: 73.54  
+*Milind Junior College*, Latur, India | 2019 - 2020
 
 ## 🛠️ Technical Skills
 
-### Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+### Subject Expertise
+- **Digital Electronics** | **Digital VLSI** | **Analog & Mixed Signal VLSI** | **Network Theory**
 
-### Frontend Development
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+### Hardware Description Languages (HDL)
+![Verilog](https://img.shields.io/badge/-Verilog-blue?style=flat-square&logo=v&logoColor=white)
+![SystemVerilog](https://img.shields.io/badge/-SystemVerilog-8B4513?style=flat-square&logo=v&logoColor=white)
 
-### Backend Development
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+### Verification Methodologies
+- **Constraint Random Coverage Driven Verification (CRV)**
+- **Assertion Based Verification (ABV) - SystemVerilog Assertions (SVA)**
+- **Universal Verification Methodology (UVM)**
+- **Code Coverage & Functional Coverage Analysis**
 
-### Database
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+### EDA Tools
+![Synopsys VCS](https://img.shields.io/badge/-Synopsys%20VCS-0078D7?style=flat-square)
+![QuestaSim](https://img.shields.io/badge/-Mentor%20QuestaSim-FF6C37?style=flat-square)
+![Xilinx ISE](https://img.shields.io/badge/-Xilinx%20ISE-E01F27?style=flat-square&logo=xilinx&logoColor=white)
+![Vivado](https://img.shields.io/badge/-Xilinx%20Vivado-E01F27?style=flat-square&logo=xilinx&logoColor=white)
+![ModelSim](https://img.shields.io/badge/-ModelSim-FF6C37?style=flat-square)
 
-### Tools & Technologies
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+### Scripting & Programming
+![Perl](https://img.shields.io/badge/-Perl-39457E?style=flat-square&logo=perl&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+
+### Core Competencies
+```
+✓ RTL Design and Coding              ✓ FSM Design and Implementation
+✓ Code Coverage Analysis             ✓ Functional Coverage Development
+✓ Assertion Based Verification       ✓ Testbench Architecture (UVM)
+✓ Digital Circuit Design             ✓ FPGA/ASIC Implementation
+✓ Protocol Verification              ✓ Design for Testability
+```
+
+### Soft Skills
+- 🎯 **Leadership** - Leading verification teams and project coordination
+- ✍️ **Technical Writing** - Documentation and design specifications
+- 🎤 **Public Speaking** - Technical presentations and knowledge sharing
+- ⏱️ **Time Management** - Efficient project planning and execution
+
+## 🏆 Certifications
+- **Advanced VLSI Design and Verification** - *Maven Silicon* | Nov 2023 - Aug 2024
+
+## 📚 Featured Projects
+
+### 1️⃣ [CORDIC Sine-Cosine Generator](link-to-repo)
+**Tech Stack:** Verilog | SystemVerilog | UVM | QuestaSim | Xilinx Vivado
+
+Designed and implemented a fixed-point CORDIC sine/cosine generator for efficient FPGA/ASIC deployment. Developed complete RTL using iterative shift-add operations to compute precise trigonometric functions without floating-point units. Created a comprehensive verification environment with testbenches covering angle range validation and accuracy analysis.
+
+**Key Achievements:**
+- ✅ Fixed-point arithmetic implementation
+- ✅ Comprehensive UVM testbench development
+- ✅ Accuracy validation across full angle range
+
+---
+
+### 2️⃣ [Router 1x3 – RTL Design and Verification](link-to-repo)
+**Tech Stack:** Verilog | SystemVerilog | Code Coverage | ModelSim
+
+Developed a sophisticated Router 1x3 solution utilizing OSI layer 3 routing principles to efficiently direct data packets between computer networks. Implemented address-based routing algorithms to channel incoming packets to designated output channels, optimizing network performance.
+
+**Key Achievements:**
+- ✅ Address-based packet routing implementation
+- ✅ 100% code coverage achieved
+- ✅ Multi-channel data distribution logic
+
+---
+
+### 3️⃣ [AHB2APB Bridge IP Core Verification](link-to-repo)
+**Tech Stack:** Verilog | SystemVerilog | UVM | Functional Coverage
+
+Designed and implemented an AHB to APB bridge in Verilog with pipelining for efficient transaction conversion and support for burst transfers. Developed and verified RTL blocks for single and burst READ/WRITE operations, utilizing UVM for comprehensive verification and achieving RTL design sign-off and synthesis.
+
+**Key Achievements:**
+- ✅ AMBA protocol implementation (AHB/APB)
+- ✅ Burst transfer support with pipelining
+- ✅ RTL sign-off with functional coverage closure
+
+---
+
+### 4️⃣ [E-Cycle Controller - RTL Design](link-to-repo)
+**Tech Stack:** Verilog | SystemVerilog | Xilinx Vivado
+
+Designed and implemented a comprehensive SystemVerilog testbench to verify an e-cycle motor controller. The project includes a finite state machine (FSM) controller with pedal and throttle priority modes. Developed reusable components: driver, monitor, scoreboard, and environment to automate stimulus generation and functional checking.
+
+**Key Achievements:**
+- ✅ FSM-based controller design
+- ✅ 64 test cases with full coverage
+- ✅ Reusable verification components
+
+---
 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Manikprabhu15&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Manikprabhu15&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manikprabhu15&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manikprabhu15&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manikprabhu15&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manikprabhu15&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
-
-## 🏆 Achievements & Certifications
-- **[Certification Name]** - [Issuing Organization] ([Year])
-- **[Achievement]** - [Description]
-- **[Award/Recognition]** - [Details]
-
-## 📚 Featured Projects
-
-### [Project Name 1](link-to-repo)
-**Tech Stack:** React, Node.js, MongoDB  
-Brief description of what this project does and its impact.
-
-### [Project Name 2](link-to-repo)
-**Tech Stack:** Python, Django, PostgreSQL  
-Brief description of what this project does and its impact.
-
-### [Project Name 3](link-to-repo)
-**Tech Stack:** [Technologies used]  
-Brief description of what this project does and its impact.
 
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](your-linkedin-url)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](your-twitter-url)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=react&logoColor=white)](your-portfolio-url)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=google-chrome&logoColor=white)](your-portfolio-url)
 
 ## 📈 Profile Views
 ![Visitor Count](https://profile-counter.glitch.me/Manikprabhu15/count.svg)
 
 ---
+
+💡 *"Hardware is hard, but verification is harder – and that's what makes it exciting!"*
 
 ⭐️ From [Manikprabhu15](https://github.com/Manikprabhu15)
