@@ -19,9 +19,6 @@ VLSI Design and Verification Engineer with expertise in RTL design, functional v
 **Bachelor of Technology - Electronics And Telecommunication** | GPA: 7.77  
 *Shri Guru Gobind Singhji Institute of Engineering and Technology (SGGSIET)*, Nanded, India | 2020 - 2024
 
-**Higher Secondary - Maharashtra State Board** | Percentage: 73.54  
-*Milind Junior College*, Latur, India | 2019 - 2020
-
 ## 🛠️ Technical Skills
 
 ### Subject Expertise
